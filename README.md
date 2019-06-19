@@ -6,7 +6,7 @@ $apt update && apt upgrade<br>
 $pkg install openssh<br>
 $pkg install git<br>
 $pkg install mc <br>
-$git clone https://github.com/ICT-FAKE/HackCam<br>
+$git clone https://github.com/BHC-FAKE/HackCam<br>
 $cd HackCam<br>
 $ls<br>
 $bash HackCam.sh<br>
