@@ -1,5 +1,6 @@
-# Welcome My Termux
+# Selamat Datang 
 
+# Cara Mejalankan Printahnya
 Cara menjalankan Toolsnya<br>
 
 $apt update && apt upgrade<br>
