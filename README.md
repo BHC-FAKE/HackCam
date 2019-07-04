@@ -27,9 +27,9 @@ $ls<br>
 $sh install.sh<br>
 
 Trus Kalo Udah Dapet Dapet Foto Korban
-tinggal Kalian Ketik
+Tinggal Kalian Ketik
 
-CTRL+Z
-Trus Ketik Lagi
-$mc
- Sekian :)😊😊
+CTRL+Z<br>
+Trus Ketik Lagi<br>
+$mc<br>
+ Sekian :)😊😊<br>
