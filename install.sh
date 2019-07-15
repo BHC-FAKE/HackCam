@@ -8,13 +8,12 @@ pkg install openssh -y
 pkg install php -y
 pkg install curl -y
 pkg install mc -y
-pip install requests
-pip install mechanize
+pkg install figlet -y
+pkg install libcurl -y
+pkg install toilet -y
+pip2 install requests
+pip2 install mechanize
 gem install lolcat
-sleep 3
-figlet -f slant "SELESAI INSTALL"|lolcat
 git clone https://github.com/BHC-FAKE/HackCam
 cd HackCam
-clear
 bash HackCam.sh
-
